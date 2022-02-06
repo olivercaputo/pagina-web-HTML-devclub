@@ -22,7 +22,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/olivercaputo#">
         <img src="https://avatars.githubusercontent.com/u/98890774?v=4" width="100px;" alt="Foto do Oliver Caputo no GitHub"/><br>
         <sub>
           <b>Oliver Caputo</b>
@@ -31,7 +31,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.github.com/rodolfomori" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/47903440?v=4" width="100px;" width="100px;" alt="Foto do Rodolfo Mori no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/47903440?v=4" width="100px;" alt="Foto do Rodolfo Mori no GitHub"/><br>
         <sub>
           <b>Rodolfo Mori</b>
         </sub>
@@ -39,7 +39,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
         <td align="center">
       <a href="https://www.github.com/iuricode" target="blank">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/31936044"
+        width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
         </sub>
