@@ -1,8 +1,9 @@
-# First Project HTML DevClub - Note
+# Projeto Página Web HTML - DevClub.
+# First Project HTML - Web Page - DevClub.
 
 <img src="./img/telaquemsoueu.jpg" alt="exemplo imagem">
 
-> Um simples projeto em HTML para iniciar os estudos na àrea da programação.
+> Uma simples Página Web usando apenas HTML para iniciar os estudos na àrea da programação.
 
 ### Ajustes e melhorias
 
