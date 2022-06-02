@@ -1,24 +1,34 @@
-# Projeto Página Web HTML - DevClub.
-# First Project HTML - Web Page - DevClub.
+# Nome do Projeto:
+
+## Página Web HTML - DevClub.
+
+<br>
 
 <img src="./img/telaquemsoueu.jpg" alt="exemplo imagem">
 
-> Uma simples Página Web usando apenas HTML para iniciar os estudos na àrea da programação.
+# Descrição do Projeto:
 
-### Ajustes e melhorias
+>### Uma simples Página Web usando apenas HTML para iniciar os estudos na àrea da programação.
+
+<br>
+
+## Linguagens Utilizadas:
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+### Ajustes e melhorias:
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Criação do HTML.
-- [x] Atualização do CSS.
 - [ ] Criação do CSS.
 
-## 💻 Pré-requisitos
+## 💻 Pré-requisitos:
 
 Apenas ter um computador ligado à Internet e uma conta no GitHub para visualizar.
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradeço às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
